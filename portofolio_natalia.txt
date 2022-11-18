@@ -2,36 +2,17 @@ NATALIA DIVA MULJONO
 
 Saya Natalia Diva Muljono, mahasiswa semester 5 Universitas Katolik Soegijapranata. Saya merupakan seorang individu yang memiliki antusias dan motivasi tinggi. Terampil dalam mengoperasikan software desain seperti canva. Mempunyai pengalaman di bidang UI/UX dan Digital Marketing. Tertarik dan sedang mencari kesempatan untuk mengembangkan kemampuan saya untuk bekerja di bidang Digital Marketing dan UI/UX. Saya senang belajar hal baru dan memiliki komunikasi yang baik 
 
-Kemampuan dan Kompetensi
-- Analisis
-- Figma
-- Canva 
-- Melukis
+Pendidikan
+Universitas Katolik Soegijapranata - Semarang, Indonesia Sep 2020 - Present
+Bachelor Degree in Information System, 3.88/4.00
 
 Pengalaman Kerja 
-Sogo Village (Blora, Indonesia)
-Backend Developer (Januari 2022 - Mei 2022)
-- Membuat code PHP, MySQL, Javascript
-- Mencari hosting dan domain
-
-Pengalaman Organisasi
-- Badan Eksekutif Mahasiswa Fakultas Ilmu Komputer Unika Soegijapranata - Semarang, Indonesia Aug 2021 - Aug 2022
-Ketua
-> Memimpin dan mengkoordinir rapat pengurus
-> Memberi arahan kepada pengurus 
-> Menentukan Kebijakan 
-> Bertanggung Jawab terhadap seluruh anggota Badan Eksekutif Mahasiswa Fakultas Ilmu Komputer Unika Soegijapranata
-> Mengawasi seluruh program kerja yang ada pada Badan Eksekutif Mahasiswa Fakultas Ilmu Komputer Unika Soegijapranata
-- Badan Eksekutif Mahasiswa Fakultas Ilmu Komputer Unika Soegijapranata - Semarang, Indonesia Sep 2020 - Aug 2021
-Koordinator Internal
-> Bertanggung Jawab terhadap seluruh keharmonisan seluruh anggota Badan Eksekutif Mahasiswa Fakultas Ilmu Komputer Unika Soegijapranata
-> Merancang kegiatan-kegiatan yang dapat mempererat hubungan kekeluargaan dan berhasil mengakrabkan seluruh anggota Badan
-Eksekutif Mahasiswa Fakultas Ilmu Komputer Unika Soegijapranata
-> Berkoordinasi dengan seluruh Badan Eksekutif Mahasiswa Fakultas lain untuk menjalin keakraban dan kerjasama
-an
-- Pembekalan Terpadu Mahasiswa Baru Fakultas Ilmu Komputer Universitas Katolik Soegijapranata - Semarang, Indonesia June 2022 - Sept 2022
-Penanggung Jawab
-> Bertanggung Jawab atas seluruh rangkaian acara PTMB 
-> Memberikan arahan terhadap susunan acara 
-> Mengkoordinir seluruh panitia PTMB 
-> Memberikan evaluasi selama proses PTMB
+- Sogo Village -Blora, Indonesia Jan 2022 - Mei 2022
+Backend Developer 
+> Membuat code PHP, MySQL, Javascript
+> Mencari hosting dan domain
+- PT Buana Online Sejahtera - Semarang, Indonesia July 2022 - Present
+Digital Marketing
+> Bertanggung Jawab atas semua hal yang berhubungan dengan pemasaran dan branding produk SalesMania dan VehiLoc secara digital melalui
+Website dan Media Sosial (Instagram)
+> Menyusun perencanaan serta konsep untuk promosi produk SalesMania dan VehiLoc melalui channel digital (Website dan Instagram)
